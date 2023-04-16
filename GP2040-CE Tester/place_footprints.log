@@ -1,0 +1,14 @@
+04-16 12:32:06 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 405:Plugin executed on: 'win32'
+04-16 12:32:06 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 406:Plugin executed with python version: '3.9.14 (main, Dec 23 2022, 23:36:19) [MSC v.1934 64 bit (AMD64)]'
+04-16 12:32:06 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 407:KiCad build version: (7.0.0)
+04-16 12:32:06 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 408:Plugin version: 2.0.3
+04-16 12:32:06 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 409:Frame repr: <wx._core.Frame object at 0x0000023935520DC0>
+04-16 12:32:06 com_github_MitjaNemec_PlaceFootprints.place_footprints 121:getting a list of all footprints on board
+04-16 12:32:07 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 588:Reference designator is: C
+04-16 12:32:07 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 589:Reference number is: 3
+04-16 12:32:07 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 621:Sorted and filtered list:
+['C1', 'C2', 'C3', 'C4', 'C5', 'C6', 'C7', 'C8', 'C9', 'C10', 'C11', 'C12', 'C13', 'C14', 'C15', 'C16', 'C17', 'C18', 'C19', 'C20', 'C21', 'C22', 'C23', 'C24', 'C25', 'C26', 'C27', 'C28', 'C29', 'C30']
+04-16 12:32:20 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 659:Footprints to place:
+['C1', 'C7']
+04-16 12:32:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 398:Starting placing with matrix layout
+04-16 12:32:20 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 729:Placing complete
