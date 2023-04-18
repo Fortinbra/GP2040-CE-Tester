@@ -1,0 +1,3 @@
+3DX_CUI_DEVICES_Supplier: CUI Devices
+3DX_CUI_DEVICES_Description: Type A, USB 2.0, 480 Mpbs, 30 Vac, 1 A, Right Angle, Through Hole, USB Receptacle
+3DX_CUI_DEVICES_Model Number: UJ2-AH-4-TH
