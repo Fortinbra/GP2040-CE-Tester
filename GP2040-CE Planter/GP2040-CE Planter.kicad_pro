@@ -190,7 +190,10 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      "multiple_net_names|1778000|342900|d6aa5cfb-c494-47fb-9902-a5a68dae5999|f557491d-e4ca-436d-8780-cead2f5d07b8|||",
+      "pin_to_pin|762000|342900|85988daa-e43f-4da8-95f2-eae0b0699267|6388a05e-8d16-4b30-8f31-ecfaa45c33ee|/dc807de8-37b8-42d0-b910-5963edf23a6d|/dc807de8-37b8-42d0-b910-5963edf23a6d|/dc807de8-37b8-42d0-b910-5963edf23a6d"
+    ],
     "meta": {
       "version": 0
     },
@@ -401,7 +404,9 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "GP2040-CE-Tester"
+    ],
     "pinned_symbol_libs": [
       "GP2040-CE-Tester"
     ]
