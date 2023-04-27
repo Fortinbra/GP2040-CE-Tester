@@ -1,4 +1,5 @@
 (fp_lib_table
   (version 7)
   (lib (name "GP2040-CE-Tester")(type "KiCad")(uri "${KIPRJMOD}/Library/GP2040-CE-Tester.pretty")(options "")(descr ""))
+  (lib (name "TI")(type "KiCad")(uri "${KIPRJMOD}/Library/ul_TMUXHS221NKGR/KiCAD/2023-04-25_22-33-57/footprints.pretty")(options "")(descr ""))
 )
